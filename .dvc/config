@@ -1,0 +1,4 @@
+[core]
+    remote = kaenseika
+['remote "kaenseika"']
+    url = s3://kaenseika-s3
